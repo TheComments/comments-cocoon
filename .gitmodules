@@ -14,3 +14,7 @@
 	path = the_comments_antispam_services
 	url = git@github.com:TheComments/the_comments_antispam_services.git
 	branch = master
+[submodule "the_viking"]
+	path = the_viking
+	url = git@github.com:TheComments/the_viking.git
+	branch = master

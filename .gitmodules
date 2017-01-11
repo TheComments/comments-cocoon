@@ -2,3 +2,7 @@
 	path = the_comments_base
 	url = git@github.com:TheComments/the_comments_base.git
 	branch = master
+[submodule "the_comments_subscriptions"]
+	path = the_comments_subscriptions
+	url = git@github.com:TheComments/the_comments_subscriptions.git
+	branch = master

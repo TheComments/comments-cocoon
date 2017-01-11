@@ -1,0 +1,4 @@
+[submodule "the_comments_base"]
+	path = the_comments_base
+	url = git@github.com:TheComments/the_comments_base.git
+	branch = master

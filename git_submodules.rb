@@ -13,6 +13,11 @@ SUBS = %w[
   the_comments_manager
   git@github.com:TheComments/the_comments_manager.git
   master
+
+  the_comments_antispam_services
+  the_comments_antispam_services
+  git@github.com:TheComments/the_comments_antispam_services.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
